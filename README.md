@@ -1,1 +1,1 @@
-# alexisgb8018-Practico-I-polimorfismo-y-currificaci-n-
+# Practico I polimorfismo y currificación
