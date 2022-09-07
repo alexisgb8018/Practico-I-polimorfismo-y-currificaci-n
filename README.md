@@ -1,1 +1,1 @@
-# Practico I polimorfismo y currificación
+Polimorfismo y currificación
